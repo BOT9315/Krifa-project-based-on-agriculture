@@ -2,6 +2,8 @@
     <img src="public/favicon.ico" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">KRIFA</h1></p>
+<p align="center"><h1 align="center">https://krifa.vercel.app/</h1></p>
+
 <p align="center">
 	<img src="https://img.shields.io/github/license/nayiswftw/Krifa?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/nayiswftw/Krifa?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">

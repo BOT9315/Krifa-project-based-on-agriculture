@@ -32,6 +32,7 @@ Krifa is a cutting-edge SaaS platform designed specifically for modern farmers a
 
 Whether you're managing a small family farm or overseeing large-scale agricultural operations, Krifa provides the tools you need to thrive in today's competitive farming landscape.
 
+
 ## 🚀 Key Features
 
 ### 🌾 Comprehensive Farm Management

@@ -87,7 +87,7 @@ Whether you're managing a small family farm or overseeing large-scale agricultur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nayiswftw/Krifa.git
+   git clone https://github.com/BOT9315/Krifa.git
    cd krifa
    ```
 
